@@ -1,0 +1,174 @@
+#Home {
+
+    background-color:black;
+    margin: 1px auto;
+
+}
+body{
+    background-color:rgb(0, 0, 0);
+    margin: 1px auto;
+
+}
+h1 {     
+    color: black;
+    text-align: center;/*how to move text slightly left*/
+    float:inline-end;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3.5%;
+}
+main p
+{
+    color: white;
+    float: right;
+}
+h2 {     
+    color: rgb(255, 255, 255);
+}
+header {
+    background-color : rgb(255, 0, 0);   
+    border-bottom: 3px solid white;
+}
+main {
+    height: 75%;
+    width: 98%;
+    color: white; 
+
+}
+main ul {
+    list-style-type: none;
+}
+
+footer
+{
+    
+    width:100%;
+    /*height: 50px;
+    /*how to fill bottom section of footer*/
+    bottom:0px;
+    padding: 0;
+    margin: 0;
+    color: #000000;
+    text-align: center;
+    border-top: 2px solid black;
+    background: rgb(255, 0, 0);
+    position: fixed; 
+}
+.headerImage{
+    position: relative;
+    margin-top: 1.5%;
+    left: 1.5%;
+    width: 10%;
+    border:2px solid rgb(0, 0, 0);
+    border-radius:10px
+}
+
+#bottomImg{
+    width: 65%;
+    display: block;
+    margin-bottom:1%;
+    margin-left:auto;
+    margin-right:auto;
+    border:4px solid white;
+}
+.ColourOfMagic{
+    width: 10em;
+    display: block;
+    margin-bottom:1%;
+    border:4px solid white;
+    
+}
+main ul li p{
+    margin-right: 80em ;
+    margin-top: -15em;
+
+}
+.TheLightFantastic{
+    width: 10em;
+    display: block;
+    margin-bottom:1%;
+    border:4px solid white;
+}
+.Berserk{
+    width: 10em;
+    display: block;
+    margin-bottom:1%;
+    border:4px solid white;
+}
+.RiversOfLondon{
+    width: 10em;
+    display: block;
+    margin-bottom:1%;
+    border:4px solid white;
+}
+.HitchhikersGuideToTheGalaxy{
+    width: 10em;
+    display: block;
+    margin-bottom:1%;
+    border:4px solid white;
+}
+.PetSemetary{
+    width: 10em;
+    display: block;
+    margin-bottom:1%;
+    border:4px solid white;
+}
+.Frued{
+    width: 10em;
+    display: block;
+    margin-bottom:1%;
+    border:4px solid white;
+}
+.TheManWhoMistookHisWifeForAHat{
+    width: 10em;
+    display: block;
+    margin-bottom:1%;
+    border:4px solid white;
+}
+.Dinosuar{
+    width: 10em;
+    display: block;
+    margin-bottom:1%;
+    border:4px solid white;
+}
+
+
+nav{
+    height: 75px;
+    background: rgb(0, 0, 0);
+}
+nav ul{
+    
+    text-align: center;
+    font-size: 1.2em;
+    position: relative;
+    top:35%;
+    
+}
+nav ul li{
+
+    background-color: rgb(0, 0, 0);
+    display: inline;
+    padding: 15px;
+    margin:5px;
+    border:2px solid rgb(250, 0, 0);
+    border-radius:10px
+}
+nav ul li a{
+    color:rgb(255, 0, 0);
+    text-decoration: none;
+}
+nav ul li:hover{
+    background-color: rgb(255, 111, 111);
+}
+.logomiddle
+{
+    background-color: red;
+    border-radius: 10%;
+    width: 20vw;
+    height: 10vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
